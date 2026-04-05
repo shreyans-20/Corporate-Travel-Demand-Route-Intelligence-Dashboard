@@ -1,5 +1,4 @@
 # Corporate-Travel-Demand-Route-Intelligence-Dashboard
-[Route & Travel Demand Intelligence Dashboard.pdf](attachment:1dae9b19-6b25-4c81-894a-878e30d62699:Route__Travel_Demand_Intelligence_Dashboard.pdf)
 
 An interactive business intelligence dashboard designed to analyze corporate travel spending, demand patterns, and route distribution to support cost optimization and strategic travel planning.
 
