@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard analyzing corporate travel spending, demand patterns, and route distribution — built during my internship at TripTrip India to support cost optimization and strategic travel planning.
 
+<img width="1301" height="729" alt="Screenshot 2026-02-27 153808" src="https://github.com/user-attachments/assets/de4976b2-e89e-49c0-ad74-3804e0a88cd6" />
+
 ---
 
 ## 🎯 Objective
