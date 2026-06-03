@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing corporate travel spending, demand patterns, and route distribution — built during my internship at TripTrip India to support cost optimization and strategic travel planning.
 
-<img width="1301" height="729" alt="Screenshot 2026-02-27 153808" src="https://github.com/user-attachments/assets/de4976b2-e89e-49c0-ad74-3804e0a88cd6" />
+![image alt](https://github.com/shreyans-20/Corporate-Travel-Demand-Route-Intelligence-Dashboard/blob/3fa8013b901a3855bf2447e74bc7992abc7bd59b/Corporate%20Travel%20Demand%20%26%20Route%20Intelligence%20Dashboard.png)
 
 ---
 
